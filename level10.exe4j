@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="3.1.3">
+  <directoryPresets config="L:/Level 10" />
+  <application name="Level 10" distributionSourceDir="C:/Documents and Settings/Joseph/Desktop" />
+  <executable name="Level 10" type="2" iconSet="false" iconFile="" executableDir="" redirectStderr="true" stderrFile="error.log" redirectStdout="false" stdoutFile="output.log" failOnStderrOutput="true" executableMode="1" changeWorkingDirectory="false" workingDirectory="." singleInstance="false" serviceStartType="2" serviceDependencies="" serviceDescription="" jreLocation="">
+    <messageSet language="English">
+      <message id="NO_JVM_FOUND" text="No JVM could be found on your system.\nPlease download it from java.sun.com\nIt is needed for many applications, not just this, so it is to your benefit" />
+    </messageSet>
+    <versionInfo include="false" fileVersion="" companyName="" fileDescription="" legalCopyright="" productVersion="" internalName="" />
+  </executable>
+  <splashScreen show="true" autoOff="true" alwaysOnTop="true" width="450" height="120" bitmapFile="C:/Documents and Settings/Joseph/Desktop/wright.png">
+    <text>
+      <statusLine x="20" y="20" text="" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+      <versionLine x="20" y="40" text="version %VERSION%" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+    </text>
+  </splashScreen>
+  <java mainClass="widget.WidgetStart" vmParameters="" arguments="" allowVMPassthroughParameters="true" minVersion="1.5" maxVersion="" preferredVM="" allowBetaVM="true" jdkOnly="false">
+    <searchSequence>
+      <registry />
+      <envVar name="JAVA_HOME" />
+      <envVar name="JDK_HOME" />
+    </searchSequence>
+    <classPath>
+      <archive location="L:/Level 10/Level 10.zip" failOnError="false" />
+    </classPath>
+    <nativeLibraryDirectories />
+  </java>
+  <includedFiles />
+</exe4j>
+

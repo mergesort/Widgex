@@ -1,0 +1,2 @@
+This is a widget platform that was created in 2006.  It was made to run on Java 1.4, and I make no guarantees about it's current condition.  At the time it was tested on Mac and Windows, and worked on both platforms.  Presumably anything that can run Java can run this.  You can add new widgets by subclassing the widget class and creating a small view based application.
+Feel free to pull and play, and you can always ask me questions if need be.

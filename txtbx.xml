@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="javax.swing.JTextArea"> 
+  <void property="font"> 
+   <object class="java.awt.Font"> 
+    <string>Comic Sans MS</string> 
+    <int>0</int> 
+    <int>10</int> 
+   </object> 
+  </void> 
+  <void property="lineWrap"> 
+   <boolean>true</boolean> 
+  </void> 
+  <void property="text"> 
+   <string>Dear Mr. Turner,
+
+Hope you like our project.
+
+Mike &amp; Joe.</string> 
+  </void> 
+ </object> 
+</java> 

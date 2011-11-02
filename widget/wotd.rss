@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="0.92">
+<channel>
+<title>Dictionary.com Word of the Day</title>
+<link>http://dictionary.reference.com/wordoftheday/</link>
+<description>A new word is presented every day with its definition and example sentences from actual published works.</description>
+<language>en-us</language>
+<copyright>Copyright 2006 Lexico Publishing Group, LLC</copyright>
+<ttl>720</ttl>
+<image>
+<title>Dictionary.com</title>
+<url>http://cache.lexico.com/dictionary/graphics/logo88x31.gif</url>
+<link>http://dictionary.reference.com/wordoftheday/</link>
+<width>88</width>
+<height>31</height>
+<description>Free online dictionary, thesaurus and reference guide, crossword puzzles and other word games, online translator and Word of the Day.</description>
+</image>
+<item>
+<title>multifarious: Dictionary.com Word of the Day</title>
+<link>http://dictionary.reference.com/wordoftheday/archive/2006/05/15.html</link>
+<description>multifarious: having great diversity or variety.</description>
+</item>
+<textInput>
+<title>Lookup</title>
+<description>Dictionary.com Search</description>
+<name>q</name>
+<link>http://dictionary.reference.com/search</link>
+</textInput>
+</channel>
+</rss>
+
